@@ -1,0 +1,24 @@
+project name:Library management Sysytem 
+Project Idea:
+1.user can log in as a Librarian or Student.
+2.Librarian should be able to add/update/delete book record.
+                  * Search for books using different fields
+                  * checkout book for others and
+                  * check in.
+
+3.Student should be able to search for books using different fields
+                  * Checkout book
+                  * extend the check in date
+                  * check-in book
+
+or
+
+Project name:Restuarent management System
+Project idea:
+1.user can log in 
+2.add quantity of product
+3.get the total price
+4.reset data and can get the recipt of price.
+
+
+
